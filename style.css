@@ -1,0 +1,77 @@
+body{
+    overflow-x: hidden;
+}
+ 
+.card{
+    border: none;
+}
+
+/*Nav */
+
+.logo{
+    width: 100px;
+}
+
+/*home*/
+#home .btn{
+    background: #e8631c;
+}
+
+#home{
+    background: url('images/pic1.png') center;
+    background-size: cover;
+
+}
+
+#home .container{
+    margin-top: 25%;}
+
+
+/*Product */
+#product{
+    background: url('images/bg1.png');
+}
+
+/*Promo*/
+
+#promo{
+    background: url('images/bg2.png');
+    background-size: cover;
+}
+
+#promo .card img{
+    width: 200px;
+
+}
+
+#promo .bg{
+    background: #e8631c;
+
+}
+/*About */
+#about {
+    background: url('images/bg.png');
+    background-size: cover;
+}
+/*
+#about-1 {
+    background: url('images/bg4.png');
+}*/
+
+#about-2{
+    background: #303030;
+}
+
+/*Contact*/
+
+#contact-1{
+    background: url('images/bg5.png');
+}
+
+/*Footer*/
+
+.footer{
+    background: #303030;
+}
+
+
